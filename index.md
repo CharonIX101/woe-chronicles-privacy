@@ -11,7 +11,7 @@ Last updated: October 17, 2026
 
 Creator: CharonIX / charonIXI
 
-Scope: the skills-only text RPG package, versions 0.9.0–0.9.3, supplied for use within ChatGPT. Website visits and optional support communication are addressed separately below.
+Scope: the skills-only text RPG package supplied for use within ChatGPT, with the data practices described below. Website visits and optional support communication are addressed separately below.
 
 ## 1. What the plugin provides
 
