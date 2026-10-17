@@ -5,7 +5,7 @@ title: The Woe Chronicles — Terms of Service
 
 # The Woe Chronicles — Terms of Service
 
-[Privacy Policy](./) · [Terms of Service](terms.html)
+[Home](home.html) · [Support](support.html) · [Privacy Policy](./) · [Terms of Service](terms.html)
 
 Last updated: October 17, 2026
 

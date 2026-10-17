@@ -5,13 +5,13 @@ title: The Woe Chronicles — Privacy Policy
 
 # The Woe Chronicles — Privacy Policy
 
-[Privacy Policy](./) · [Terms of Service](terms.html)
+[Home](home.html) · [Support](support.html) · [Privacy Policy](./) · [Terms of Service](terms.html)
 
 Last updated: October 17, 2026
 
 Creator: CharonIX / charonIXI
 
-Scope: the skills-only text RPG package, versions 0.9.0–0.9.2, supplied for use within ChatGPT. Website visits and optional support communication are addressed separately below.
+Scope: the skills-only text RPG package, versions 0.9.0–0.9.3, supplied for use within ChatGPT. Website visits and optional support communication are addressed separately below.
 
 ## 1. What the plugin provides
 
