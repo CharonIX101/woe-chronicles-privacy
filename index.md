@@ -25,6 +25,18 @@ The creator does not collect, maintain, sell, or share player personal informati
 
 This statement concerns the package's design and operation. It is not a guarantee that ChatGPT cannot make a mistake, that all prompts are resistant to manipulation, or that other tools a player enables are disabled.
 
+### Gameplay data summary
+
+| Topic | Package practice |
+| --- | --- |
+| Categories of personal data collected by the creator | None through the package's automatic gameplay operation. This includes no automatic collection of chat transcripts, saves, uploaded files, real-world identity details, IP addresses, timestamps, or query patterns by the package. |
+| Purposes of creator use | There is no creator use of automatically collected gameplay records because the package does not collect them. ChatGPT uses the content a player supplies to run the requested fictional game under OpenAI's applicable policies. |
+| Categories of recipients | The package sends no gameplay records to the creator, advertisers, analytics services, or other external recipients. OpenAI and any services a player separately enables have their own handling described in sections 4 and 5. |
+| Creator retention timeline | No creator retention period applies to automatically collected gameplay records: the package creates no creator-held copy. ChatGPT's retention rules remain separate. |
+| Player controls | Play using invented details, decline optional character details, choose whether to retain a checkpoint, and use ChatGPT's available data controls for account content. No separate creator account or identity verification is required. |
+
+The package includes no creator-operated tracking, behavioral profiling, advertising analytics, or logging of gameplay. This does not describe the independent operation of ChatGPT, GitHub, Discord, or another service a player separately uses.
+
 ## 3. Character information and game state
 
 Character names, appearances, backgrounds, relationships, inventories, and campaign events are intended as fictional game information. Players may use invented details. Real names, addresses, contact details, identification documents, credentials, or other sensitive personal information are not required to play.
@@ -54,6 +66,28 @@ If a player separately chooses to share a conversation, send a support message, 
 Support is optional. Do not send credentials, identification documents, or private campaign records as a requirement for gameplay. Prefer a short description using invented or redacted details when reporting a problem.
 
 The privacy-policy website is hosted separately on GitHub Pages. Visiting it is distinct from using the skills package, and GitHub's applicable privacy practices govern its handling of website visits. Discord and any other independently used service have their own policies. This package policy does not promise that those services collect no information.
+
+### Optional support: information, use, and recipients
+
+If you voluntarily request help through GitHub Issues or Discord, recipients can see your service username or profile identifier, your message and any attachments you choose to submit, and metadata the service displays, such as a posting time. Only the information you choose to disclose is needed to explain a problem; a full chat, private save, or sensitive identifier is not required.
+
+Support information is used to understand the reported problem, reply, and discuss a correction or improvement. It can be received by the creator, authorized support or moderation participants, and the service provider. GitHub issues in this repository are public; other people can read or copy them. Discord visibility depends on the channel, server permissions, and service settings. External providers and any configured moderation services process information under their own policies and settings.
+
+### Optional support: retention and removal controls
+
+Optional support posts are stored on the service where you submit them. They may remain available indefinitely unless you, an authorized administrator or moderator, or the provider removes them. Resolving or closing an issue does not itself promise deletion. This policy promises no fixed automatic expiry for optional support posts; it does not apply the gameplay statement of no creator-held records to messages you voluntarily send to support.
+
+Use the relevant service's editing, deletion, and privacy controls for content you submit, where available. To request review or removal of a support post that the creator can control, use the [Support page](support.html) and identify the post by its link; do not repeat sensitive information in the request. The creator cannot delete OpenAI account records, override another service's retention rules, or guarantee removal of provider backups, public archives, or copies made by other people. Legal rights and the provider's applicable privacy processes remain available.
+
+External privacy resources:
+
+- [GitHub General Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
+- [Discord Privacy Policy](https://discord.com/privacy)
+- [Discord data retention information](https://support.discord.com/hc/en-us/articles/5431812448791-How-long-Discord-keeps-your-information)
+
+### Privacy questions
+
+For questions about this package's practices or creator-controlled support content, use the [Support page](support.html). For private ChatGPT conversations, account access, deletion, and other OpenAI-held information, use OpenAI's privacy resources instead.
 
 ## 6. Changes to these practices
 
